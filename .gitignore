@@ -19,3 +19,4 @@ credentials.json
 *.un~
 Session.vim
 .netrwhist
+.envrc
